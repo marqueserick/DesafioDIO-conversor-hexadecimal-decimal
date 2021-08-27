@@ -11,9 +11,15 @@ Para cada linha de entrada (exceto a última) deve ser produzido uma linha de sa
 
  
 
-Exemplo de Entrada          Exemplo de Saída
-4                           0x4
-7                           0x7
-44                          0x2C
-0x80685                     525957
+Exemplo de Entrada
+4
+7
+44
+0x80685
 -1
+
+Exemplo de Saída
+0x4
+0x7
+0x2C
+525957
